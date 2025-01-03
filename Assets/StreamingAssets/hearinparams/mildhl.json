@@ -1,0 +1,73 @@
+{
+
+  "HL3DTI_Process_LeftOn": 1,
+  "HL3DTI_Process_RightOn": 1,
+
+  "HL3DTI_TA_LeftOn": 1,
+  "HL3DTI_TA_RightOn": 1,
+
+  "HL3DTI_MBE_LeftOn": 1,
+  "HL3DTI_MBE_RightOn": 1,
+
+  "HL3DTI_FS_LeftOn": 1,
+  "HL3DTI_FS_RightOn": 1,
+
+  "HL3DTI_TA_LRSync_On": 0,
+  "HL3DTI_TA_LRSync": 0,
+
+  "HL3DTI_TA_Band_Left": 1600,
+  "HL3DTI_TA_Band_Right": 1600,
+
+  "HL3DTI_TA_Noise_Power_Left": 0.1,
+  "HL3DTI_TA_Noise_Power_Right": 0.1,
+
+  "HL3DTI_TA_Noise_LPF_Left": 500,
+  "HL3DTI_TA_Noise_LPF_Right": 500,
+
+  "HL3DTI_TA_Autocor0_Get_Left": -51,
+  "HL3DTI_TA_Autocor0_Get_Right": -51,
+
+  "HL3DTI_TA_Autocor1_Get_Left": -45,
+  "HL3DTI_TA_Autocor1_Get_Right": -45,
+
+  "HL3DTI_HL_Band_0_Left": 21,
+  "HL3DTI_HL_Band_1_Left": 21,
+  "HL3DTI_HL_Band_2_Left": 21,
+  "HL3DTI_HL_Band_3_Left": 21,
+  "HL3DTI_HL_Band_4_Left": 21,
+  "HL3DTI_HL_Band_5_Left": 21,
+  "HL3DTI_HL_Band_6_Left": 36,
+  "HL3DTI_HL_Band_7_Left": 51,
+  "HL3DTI_HL_Band_8_Left": 51,
+
+  "HL3DTI_HL_Band_0_Right": 21,
+  "HL3DTI_HL_Band_1_Right": 21,
+  "HL3DTI_HL_Band_2_Right": 21,
+  "HL3DTI_HL_Band_3_Right": 21,
+  "HL3DTI_HL_Band_4_Right": 21,
+  "HL3DTI_HL_Band_5_Right": 21,
+  "HL3DTI_HL_Band_6_Right": 36,
+  "HL3DTI_HL_Band_7_Right": 51,
+  "HL3DTI_HL_Band_8_Right": 51,
+
+  "HL3DTI_FS_Hz_Up_Left": 1.6,
+  "HL3DTI_FS_Hz_Up_Right": 1.6,
+
+  "HL3DTI_FS_Size_Down_Left": 15,
+  "HL3DTI_FS_Size_Down_Right": 15,
+
+  "HL3DTI_FS_Hz_Down_Left": 1.1,
+  "HL3DTI_FS_Hz_Down_Right": 1.1,
+
+  "HL3DTI_FS_Size_Up_Left": 15,
+  "HL3DTI_FS_Size_Up_Right": 15,
+
+  "HL3DTI_HL_FS_Approach_Left": 0,
+  "HL3DTI_HL_FS_Approach_Right": 0,
+
+  "HL3DTI_HL_MBE_Approach_Left": 0,
+  "HL3DTI_HL_MBE_Approach_Right": 0,
+
+  "HL3DTI_Calibration": 59.65
+
+}

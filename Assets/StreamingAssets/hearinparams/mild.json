@@ -1,0 +1,167 @@
+{
+  "HA3DTI_Handle": 0,
+  "HA3DTI_Limiter_On": 1,
+  "HA3DTI_NoiseBits": 16,
+  "HA3DTI_NoiseBefore_On": 0,
+  "HA3DTI_NoiseAfter_On": 0,
+  "HA3DTI_Interpolation_On": 1,
+  "HA3DTI_HPF_Cutoff": 500,
+  "HA3DTI_LPF_Cutoff": 3026,
+  "HA3DTI_Get_Limiter_Compression": 0,
+
+  "HA3DTI_Process_LeftOn": 1,
+  "HA3DTI_Process_RightOn": 1,
+
+  "HA3DTI_AttackRelease_Left": 1000,
+  "HA3DTI_AttackRelease_Right": 1000,
+
+  "HA3DTI_Normalization_LeftOn": 1,
+  "HA3DTI_Normalization_RightOn": 1,
+
+  "HA3DTI_Normalization_DB_Left": 3.73,
+  "HA3DTI_Normalization_DB_Right": 3.73,
+
+  "HA3DTI_Normalization_Get_Left": 0.025,
+  "HA3DTI_Normalization_Get_Right": 0.025,
+
+  "HA3DTI_Compression_Left": 100,
+  "HA3DTI_Compression_Right": 100,
+
+  "HA3DTI_Tone_Low_Left": 0,
+  "HA3DTI_Tone_Mid_Left": 0,
+  "HA3DTI_Tone_High_Left": 0,
+  "HA3DTI_Tone_Low_Right": 0,
+  "HA3DTI_Tone_Mid_Right": 0,
+  "HA3DTI_Tone_High_Right": 0,
+
+  "HA3DTI_Volume_Left": 0,
+  "HA3DTI_Volume_Right": 0,
+
+  "HA3DTI_Gain_Level_0_Band_0_Left": 1,
+  "HA3DTI_Gain_Level_0_Band_1_Left": 1,
+  "HA3DTI_Gain_Level_0_Band_2_Left": 1,
+  "HA3DTI_Gain_Level_0_Band_3_Left": 1,
+  "HA3DTI_Gain_Level_0_Band_4_Left": 1,
+  "HA3DTI_Gain_Level_0_Band_5_Left": 10,
+  "HA3DTI_Gain_Level_0_Band_6_Left": 19,
+
+  "HA3DTI_Gain_Level_1_Band_0_Left": 1,
+  "HA3DTI_Gain_Level_1_Band_1_Left": 1,
+  "HA3DTI_Gain_Level_1_Band_2_Left": 1,
+  "HA3DTI_Gain_Level_1_Band_3_Left": 1,
+  "HA3DTI_Gain_Level_1_Band_4_Left": 1,
+  "HA3DTI_Gain_Level_1_Band_5_Left": 16,
+  "HA3DTI_Gain_Level_1_Band_6_Left": 31,
+
+  "HA3DTI_Gain_Level_2_Band_0_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_1_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_2_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_3_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_4_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_5_Left": 0,
+  "HA3DTI_Gain_Level_2_Band_6_Left": 3,
+
+  "HA3DTI_Gain_Level_0_Band_0_Right": 0,
+  "HA3DTI_Gain_Level_0_Band_1_Right": 1,
+  "HA3DTI_Gain_Level_0_Band_2_Right": 1,
+  "HA3DTI_Gain_Level_0_Band_3_Right": 1,
+  "HA3DTI_Gain_Level_0_Band_4_Right": 1,
+  "HA3DTI_Gain_Level_0_Band_5_Right": 10,
+  "HA3DTI_Gain_Level_0_Band_6_Right": 19,
+
+  "HA3DTI_Gain_Level_1_Band_0_Right": 1,
+  "HA3DTI_Gain_Level_1_Band_1_Right": 1,
+  "HA3DTI_Gain_Level_1_Band_2_Right": 1,
+  "HA3DTI_Gain_Level_1_Band_3_Right": 1,
+  "HA3DTI_Gain_Level_1_Band_4_Right": 1,
+  "HA3DTI_Gain_Level_1_Band_5_Right": 16,
+  "HA3DTI_Gain_Level_1_Band_6_Right": 31,
+
+  "HA3DTI_Gain_Level_2_Band_0_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_1_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_2_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_3_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_4_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_5_Right": 0,
+  "HA3DTI_Gain_Level_2_Band_6_Right": 3,
+
+  "HA3DTI_Threshold_0_Left": -20,
+  "HA3DTI_Threshold_0_Right": -20,
+
+  "HA3DTI_Threshold_1_Left": -40,
+  "HA3DTI_Threshold_1_Right": -40,
+
+  "HA3DTI_Threshold_2_Left": -60,
+  "HA3DTI_Threshold_2_Right": -60,
+
+  "HL3DTI_Process_LeftOn": 1,
+  "HL3DTI_Process_RightOn": 1,
+
+  "HL3DTI_TA_LeftOn": 1,
+  "HL3DTI_TA_RightOn": 1,
+
+  "HL3DTI_MBE_LeftOn": 1,
+  "HL3DTI_MBE_RightOn": 1,
+
+  "HL3DTI_FS_LeftOn": 1,
+  "HL3DTI_FS_RightOn": 1,
+
+  "HL3DTI_TA_LRSync_On": 0,
+  "HL3DTI_TA_LRSync": 0,
+
+  "HL3DTI_TA_Band_Left": 1600,
+  "HL3DTI_TA_Band_Right": 1600,
+
+  "HL3DTI_TA_Noise_Power_Left": 0.1,
+  "HL3DTI_TA_Noise_Power_Right": 0.1,
+
+  "HL3DTI_TA_Noise_LPF_Left": 500,
+  "HL3DTI_TA_Noise_LPF_Right": 500,
+
+  "HL3DTI_TA_Autocor0_Get_Left": -51,
+  "HL3DTI_TA_Autocor0_Get_Right": -51,
+
+  "HL3DTI_TA_Autocor1_Get_Left": -45,
+  "HL3DTI_TA_Autocor1_Get_Right": -45,
+
+  "HL3DTI_HL_Band_0_Left": 21,
+  "HL3DTI_HL_Band_1_Left": 21,
+  "HL3DTI_HL_Band_2_Left": 21,
+  "HL3DTI_HL_Band_3_Left": 21,
+  "HL3DTI_HL_Band_4_Left": 21,
+  "HL3DTI_HL_Band_5_Left": 21,
+  "HL3DTI_HL_Band_6_Left": 36,
+  "HL3DTI_HL_Band_7_Left": 51,
+  "HL3DTI_HL_Band_8_Left": 51,
+
+  "HL3DTI_HL_Band_0_Right": 21,
+  "HL3DTI_HL_Band_1_Right": 21,
+  "HL3DTI_HL_Band_2_Right": 21,
+  "HL3DTI_HL_Band_3_Right": 21,
+  "HL3DTI_HL_Band_4_Right": 21,
+  "HL3DTI_HL_Band_5_Right": 21,
+  "HL3DTI_HL_Band_6_Right": 36,
+  "HL3DTI_HL_Band_7_Right": 51,
+  "HL3DTI_HL_Band_8_Right": 51,
+
+  "HL3DTI_FS_Hz_Up_Left": 1.6,
+  "HL3DTI_FS_Hz_Up_Right": 1.6,
+
+  "HL3DTI_FS_Size_Down_Left": 15,
+  "HL3DTI_FS_Size_Down_Right": 15,
+
+  "HL3DTI_FS_Hz_Down_Left": 1.1,
+  "HL3DTI_FS_Hz_Down_Right": 1.1,
+
+  "HL3DTI_FS_Size_Up_Left": 15,
+  "HL3DTI_FS_Size_Up_Right": 15,
+
+  "HL3DTI_HL_FS_Approach_Left": 0,
+  "HL3DTI_HL_FS_Approach_Right": 0,
+
+  "HL3DTI_HL_MBE_Approach_Left": 0,
+  "HL3DTI_HL_MBE_Approach_Right": 0,
+
+  "HL3DTI_Calibration": 59.65
+
+}
