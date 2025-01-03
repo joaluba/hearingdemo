@@ -20,7 +20,7 @@ public class LoadJsonParams : MonoBehaviour
         HAParams = JsonUtility.FromJson<HearingAidParameters>(jsonHA);
         HLParams = JsonUtility.FromJson<HearingLossParameters>(jsonHL);
 
-        ApplyParametersSequentially(HAParams, HLParams);
+        ApplyParametersToMixer(HLParams);
 
 
     }
@@ -30,11 +30,9 @@ public class LoadJsonParams : MonoBehaviour
     {
         // Call the first function and wait for it to complete
         ApplyParametersToMixer(HAParams);
-        yield return new WaitForEndOfFrame(); // Adjust this based on the actual duration of the function
-
+        yield return new WaitForEndOfFrame(); 
         // Call the second function
         ApplyParametersToMixer(HLParams);
-        yield return new WaitForEndOfFrame(); // Optional, depending on your needs
     }
 
 
@@ -45,10 +43,12 @@ public class LoadJsonParams : MonoBehaviour
             string paramName = field.Name;
             float paramValue = (float)field.GetValue(parameters);
 
+            Debug.Log("SETTER? " + paramName);
+
             if (mixer.HasExposedParameter(paramName))
             {
                 mixer.SetFloat(paramName, paramValue);
-                Debug.Log($"Set {paramName} to {paramValue}");
+                Debug.Log($"MY SETTER SCRIPT: Set {paramName} to {paramValue}");
             }
             else
             {

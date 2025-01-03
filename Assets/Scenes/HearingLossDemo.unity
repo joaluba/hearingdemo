@@ -16962,57 +16962,6 @@ Transform:
   m_Father: {fileID: 2022756675}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1068085791
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1068085792}
-  - component: {fileID: 1068085793}
-  m_Layer: 0
-  m_Name: HearingLossSimulator
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1068085792
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1068085791}
-  m_LocalRotation: {x: -0, y: -0.38268343, z: -0, w: 0.92387956}
-  m_LocalPosition: {x: -0.10148877, y: -1.2, z: 0.19021165}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1654501746}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1068085793
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1068085791}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d3e47873e845404fa98d69278291f61, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hlMixer: {fileID: 24100000, guid: 02d04237d0308a14ea0c3b720849faae, type: 2}
-  PARAM_CLASSIFICATION_CURVE_LEFT: 0
-  PARAM_CLASSIFICATION_SLOPE_LEFT: 0
-  PARAM_CLASSIFICATION_SEVERITY_LEFT: 0
-  PARAM_CLASSIFICATION_CURVE_RIGHT: 0
-  PARAM_CLASSIFICATION_SLOPE_RIGHT: 0
-  PARAM_CLASSIFICATION_SEVERITY_RIGHT: 0
 --- !u!1 &1070877246
 GameObject:
   m_ObjectHideFlags: 0
@@ -19533,51 +19482,6 @@ SkinnedMeshRenderer:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_DirtyAABB: 1
---- !u!1 &1308082378
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1308082379}
-  - component: {fileID: 1308082380}
-  m_Layer: 0
-  m_Name: HearingAidSimulator
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1308082379
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1308082378}
-  m_LocalRotation: {x: -0, y: -0.38268343, z: -0, w: 0.92387956}
-  m_LocalPosition: {x: -0.10148877, y: -1.2, z: 0.19021165}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1654501746}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1308082380
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1308082378}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef6b4806b154c4644a96d122f1e56183, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  haMixer: {fileID: 24100000, guid: 02d04237d0308a14ea0c3b720849faae, type: 2}
 --- !u!1 &1310388373
 GameObject:
   m_ObjectHideFlags: 0
@@ -20736,12 +20640,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1401915651}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5381709f80c94cf79e9abf88e97a229, type: 3}
+  m_Script: {fileID: 11500000, guid: de2625e3db31e4f5e8c2b53020a4db39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mixer: {fileID: 24100000, guid: 02d04237d0308a14ea0c3b720849faae, type: 2}
-  jsonFilePathHL: Assets/StreamingAssets/hearinparams/mildhl.json
-  jsonFilePathHA: Assets/StreamingAssets/hearinparams/mildha.json
+  whichhearingloss: none
+  whichhearingaid: mild
+  HearingLossComponenet: {fileID: 1654501750}
+  HearingAidComponent: {fileID: 1654501751}
 --- !u!1001 &1411317987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24811,6 +24716,8 @@ GameObject:
   - component: {fileID: 1654501749}
   - component: {fileID: 1654501748}
   - component: {fileID: 1654501747}
+  - component: {fileID: 1654501751}
+  - component: {fileID: 1654501750}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -24832,8 +24739,6 @@ Transform:
   m_Children:
   - {fileID: 1602410997}
   - {fileID: 1219208427}
-  - {fileID: 1068085792}
-  - {fileID: 1308082379}
   m_Father: {fileID: 1722511653}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -24990,6 +24895,38 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &1654501750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1654501745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3e47873e845404fa98d69278291f61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hlMixer: {fileID: 24100000, guid: 02d04237d0308a14ea0c3b720849faae, type: 2}
+  PARAM_CLASSIFICATION_CURVE_LEFT: 0
+  PARAM_CLASSIFICATION_SLOPE_LEFT: 0
+  PARAM_CLASSIFICATION_SEVERITY_LEFT: 0
+  PARAM_CLASSIFICATION_CURVE_RIGHT: 0
+  PARAM_CLASSIFICATION_SLOPE_RIGHT: 0
+  PARAM_CLASSIFICATION_SEVERITY_RIGHT: 0
+--- !u!114 &1654501751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1654501745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef6b4806b154c4644a96d122f1e56183, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  haMixer: {fileID: 24100000, guid: 02d04237d0308a14ea0c3b720849faae, type: 2}
 --- !u!1 &1654665174
 GameObject:
   m_ObjectHideFlags: 0
