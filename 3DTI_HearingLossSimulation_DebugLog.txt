@@ -847,3 +847,343 @@ SET PARAMETER: Hearing loss of band 7 for Right ear set to 0.000000 dBHL
 SET PARAMETER: Hearing loss of band 8 for Right ear set to 0.000000 dBHL
 SET PARAMETER: Left ear hearing loss simulation switched ON
 SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 63.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 63.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 96.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 81.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 96.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 111.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 66.8
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 66.34
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 55.58
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 52.43
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 48.48
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 47.79
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 47.14
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 43.94
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 39.5
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 32.22
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 62.16
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 90.97
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 120
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 111.41
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 99.31
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 84.64
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 72.6
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 51.2
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 100.84
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 103.39
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 120
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 63.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 48.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 63.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 78.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Calibration (dBSPL for 0dBFS) set to: 0
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 21.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 31.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 41.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Hearing loss of band 0 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Left ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 0 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 1 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 2 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 3 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 4 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 5 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 6 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 7 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Hearing loss of band 8 for Right ear set to 0.000000 dBHL
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON
+SET PARAMETER: Left ear hearing loss simulation switched OFF
+SET PARAMETER: Right ear hearing loss simulation switched OFF
+SET PARAMETER: Left ear hearing loss simulation switched ON
+SET PARAMETER: Right ear hearing loss simulation switched ON

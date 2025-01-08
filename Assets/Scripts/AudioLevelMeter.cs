@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class AudioLevelMeter : MonoBehaviour
 {
-    public float integrationTime = 0.1f;
+    public float integrationTime = 1f;
     public float dBLeftChannel; // Current left channel level in decibels
     public float dBRightChannel; // Current right channel level in decibels
 
@@ -11,7 +11,7 @@ public class AudioLevelMeter : MonoBehaviour
     private float leftRmsValue; // RMS value of the left channel
     private float rightRmsValue; // RMS value of the right channel
     private float smoothingFactor; // Exponential smoothing factor
-    private float integrationTime_old = 0.1f;
+    private float integrationTime_old;
     private float timeCount;
 
 
